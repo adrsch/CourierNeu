@@ -1,8 +1,5 @@
 # Courier Neu
-This just makes a couple changes for use in my game. They're a bit ugly. I don't recommend this to anyone.
-
-Modified characters:
-- 1
+This just makes changes for use in my game. They're a bit ugly. I don't recommend this to anyone.
 
 # Courier Prime
 
