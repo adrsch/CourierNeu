@@ -1,6 +1,9 @@
 # Courier Neu
 This just makes a couple changes. They're a bit ugly. I don't recommend this to anyone.
 
+Modified characters:
+- 1
+
 # Courier Prime
 
 Courier Prime is a monospaced font designed specifically for screenplays. It was designed by Alan Dague-Greene for John August and released by Quote-Unquote Apps under the SIL Open Font License (OFL).
